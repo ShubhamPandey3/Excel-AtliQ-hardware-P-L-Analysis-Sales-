@@ -27,7 +27,7 @@ This project aims to create detailed sales and finance reports to help businesse
 - [x] Facilitate negotiations with consumers.
 - [x] Identify potential business expansion opportunities in promising countries.
 
-# Finance Report**
+## Finance Report
 
 **Project Objectives** 
 - [x] Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ShubhamPandey3/Excel-AtliQ-hardware-P-L-Analysis-Sales-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/ShubhamPandey3/Excel-AtliQ-hardware-P-L-Analysis-Sales-/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
