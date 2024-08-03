@@ -9,9 +9,9 @@ This project aims to create detailed sales and finance reports to help businesse
 
 **Project Objectives:**
 
-- [x] Create a [Customer Performance Report](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
+- [x] Create a [Customer Performance P & L Report of AtliQ][(https://github.com/ShubhamPandey3/Excel-AtliQ-hardware-P-L-Analysis-Sales-/blob/main/Customer%20Performance%20P%20%26%20L%20Report%20of%20AtliQ.pdf)
   
-- [x] Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+- [x] Conduct a comprehensive comparison between [market performance vs sales targets Report of Atliq] [(https://github.com/ShubhamPandey3/Excel-AtliQ-hardware-P-L-Analysis-Sales-/blob/main/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ.pdf)
   
   - Purpose
   
@@ -30,9 +30,9 @@ This project aims to create detailed sales and finance reports to help businesse
 **Finance Report**
 
 **Project Objectives** 
-- [x] Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+- [x] Create Profit and Loss (P&L) reports by _[Fiscal Year] _(https://github.com/ShubhamPandey3/Excel-AtliQ-hardware-P-L-Analysis-Sales-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/ShubhamPandey3/Excel-AtliQ-hardware-P-L-Analysis-Sales-/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-- [x] Create Profit and Loss (P&L) reports by _[Markets](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+- [x] Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ShubhamPandey3/Excel-AtliQ-hardware-P-L-Analysis-Sales-/blob/main/Markets%20P%20%26%20L%20Report%20of%20AtliQ.pdf)_
 
   - Purpose
 
